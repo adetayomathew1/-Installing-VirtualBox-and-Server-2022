@@ -13,4 +13,5 @@ In this documentation, I will outline the initial steps of setting up my Active 
 
 To start, we’ll download VirtualBox from the official website at https://www.virtualbox.org/wiki/Downloads. Since I’m using a Windows PC, I will be selecting the version for Windows hosts.
 
-https://camo.githubusercontent.com/5422dfeb2243f5ecd90add408d1441646fd36de9d17cb128fdaab68413748c50/68747470733a2f2f692e696d6775722e636f6d2f41714c715036572e706e67
+![68747470733a2f2f692e696d6775722e636f6d2f41714c715036572e706e67](https://github.com/user-attachments/assets/42888ba3-ec15-450e-aa3a-bc8e0fa63453)
+
